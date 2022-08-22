@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>KuberLogic Blog</title>
+        <link>https://kuberlogic.com/blog</link>
+        <description>KuberLogic Blog</description>
+        <lastBuildDate>Mon, 08 Aug 2022 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Release notes 0.0.11]]></title>
+            <link>https://kuberlogic.com/blog/Release 0.0.11</link>
+            <guid>Release 0.0.11</guid>
+            <pubDate>Mon, 08 Aug 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Features added:]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="features-added">Features added:<a class="hash-link" href="#features-added" title="Direct link to heading">​</a></h2><ul><li><p>Add&nbsp;<code>install</code>&nbsp;command to KuberLogic CLI</p></li><li><p>Add Sentry integration</p></li><li><p>Update&nbsp;<code>Service</code>&nbsp;model in KuberLogic REST API</p></li><li><p>Support custom fields mapping in Chargebee integration</p></li><li><p>More stability fixes</p></li></ul>]]></content:encoded>
+            <category>Release notes</category>
+            <category>Stable</category>
+            <category>KuberLogic</category>
+        </item>
+        <item>
+            <title><![CDATA[Release notes 0.0.10]]></title>
+            <link>https://kuberlogic.com/blog/Release 0.0.10</link>
+            <guid>Release 0.0.10</guid>
+            <pubDate>Fri, 15 Jul 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Features added:]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="features-added">Features added:<a class="hash-link" href="#features-added" title="Direct link to heading">​</a></h2><ul><li><p>Kustomize script for KL installation</p></li><li><p>Integration (base layer) with billing provider (ChargeBee)</p></li><li><p>Scheduled and Instant backups (Velero integration)</p></li><li><p>Application instance management (CLI commands: <code>add</code>/<code>delete</code>/<code>list</code>/<code>edit</code>)</p></li><li><p>Application instance (Tenant) isolation</p></li><li><p>Automatic subdomain provisioning</p></li><li><p>TLS encryption support for subdomains</p></li><li><p>KuberLogic operator version update support</p></li><li><p>RESTful API and CLI for service management</p></li></ul>]]></content:encoded>
+            <category>Release notes</category>
+            <category>Initial</category>
+            <category>KuberLogic</category>
+        </item>
+    </channel>
+</rss>

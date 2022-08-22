@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkuberlogic_com=self.webpackChunkkuberlogic_com||[]).push([[4810],{5386:l=>{l.exports=JSON.parse('{"label":"Initial","permalink":"/blog/tags/initial","allTagsPath":"/blog/tags","count":1}')}}]);
